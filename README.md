@@ -11,7 +11,7 @@ Grâce à celle-ci vous pourrez facilement cloner votre projet puis faire vos co
 
 Par exemple : [SourceTree](http://www.sourcetreeapp.com)
 
-</span> to the <span class="x x-first x-last">fyinrefersformationcontainercc </span> itself, not your host machine.
+</span> to the <span class="x x-first x-last"> </span> itself, not your host machine.
 
 Outils
 ------
